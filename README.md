@@ -1,6 +1,8 @@
-# Project Group OASIS — Starter Website & README Kit
+# Wildcard Topic Innovation Summit 2025 (Group 19) — Project Hub & Website Kit
 
 This guide is written for people who may be brand new to GitHub. It will show you, step by step, how to use this repository as both:
+
+This specific copy powers the website and shared workspace for the Wildcard Topic Innovation Summit 2025 team (Group 19).
 
 1. A **website** to communicate your science to others.
 2. A **hub for sharing code** within your group.
@@ -113,7 +115,7 @@ Congratulations — you’re now using GitHub to communicate your science and sh
 
 ### Step 2 — Open the project home
 
-1. Visit your repository link (it looks like `https://github.com/ORG/Project_group_OASIS`).
+1. Visit your repository link (it looks like `https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__19`).
 2. You’ll see folders like `docs/`, `src/`, and files like `README.md`.
 
 **Why this matters:** This is the “front door” to your project’s files.
