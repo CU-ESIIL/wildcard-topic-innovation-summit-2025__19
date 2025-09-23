@@ -1,4 +1,4 @@
-# Wildcard Topic Innovation Summit 2025 (Group 19)
+# Wildcard Topic Innovation Summit 2025 (Group 19) ######
 
 
 <p style="text-align: right;"><a href="https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__19/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
