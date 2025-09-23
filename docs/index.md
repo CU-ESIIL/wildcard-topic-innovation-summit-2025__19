@@ -1,4 +1,4 @@
-# Water at the Tipping Point — Building Resilience for the Future
+# HydroFutures / WaterTipPoint — Building Resilience for the Future
 
 
 <p style="text-align: right;"><a href="https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__19/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
@@ -10,11 +10,24 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ![Wide banner of the study system](assets/hero.jpg)
 [Raw photo location: hero.jpg](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__19/blob/main/docs/assets/hero.jpg)
 
-**One sentence on impact:** Group 19 is prototyping wildcard concepts that bridge summit themes and surface bold ideas for the 2025 Innovation Summit community.
+**One sentence on impact:** Group 19 at HydroFutures / WaterTipPoint is prototyping solutions that empower communities and markets to proactively manage scarce water resources, turning a global tipping point into an opportunity for sustainable resilience and equitable access.
 
 **[Project brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View shared code](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__19/blob/main/code/fired_time_hull_panel.ipynb) · [Explore data](https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__19/blob/main/code/prism_quicklook.py)**
 
-> **About this site:** This is a public, in-progress record of our three-day sprint during the Innovation Summit. Edit everything here in your browser: open a file → pencil icon → Commit changes.
+> **About this site:**
+Welcome to HydroFutures / WaterTipPoint, the official project hub for Group 19’s work at the 2025 Innovation Summit. This site showcases our prototyping efforts to empower communities and markets in managing scarce water resources.
+
+Through innovative approaches, research, and collaboration, we aim to turn the global water scarcity tipping point into an opportunity for sustainable resilience, equitable access, and climate-smart solutions.
+
+Here, you’ll find:
+
+Project updates and prototypes
+
+Data and resources for water management
+
+Collaboration opportunities for co-founders, researchers, and partners
+
+Join us in shaping the future of water.
 
 ---
 
@@ -26,16 +39,66 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ---
 
 ## Day 1 — Define & Explore
-*Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
+Focus: Questions, Hypotheses, Context
+
+Questions we are exploring:
+
+How can communities and markets better manage scarce water resources?
+
+What digital tools or platforms can increase transparency, fairness, and resilience in water allocation?
+
+How can we prototype scalable solutions for regions facing severe water stress?
+
+Hypotheses:
+
+Transparent, data-driven water management systems will improve equitable access and reduce resource waste.
+
+Community-driven reporting and real-time tracking can identify critical issues faster than traditional methods.
+
+Pilot programs in water-stressed regions can inform globally applicable best practices.
+
+Context:
+
+Water scarcity is a global tipping point affecting billions of people, with urgent social, economic, and environmental consequences. Our work focuses on regions with acute water stress, including the Western U.S. (Utah), North Africa (Morocco), and the Middle East (Saudi Arabia).
+
+Visual:
+
+Coming Soon: Include a photo of your whiteboard or notes from brainstorming sessions — for example, sketches of OpenMap flows, water market concepts, or team discussions.
 
 ### Our product 📣
-- What product do you want to create as a team?
+
+We are prototyping WaterTipPoint, a digital platform that empowers communities, businesses, and local authorities to better understand, monitor, and manage water resources in regions facing scarcity.
+
+Key Features (Conceptual, Not Technical Details):
+
+Community-driven reporting of water issues (shortages, leaks, quality problems)
+
+Visualizing water challenges on interactive maps
+
+Facilitating data-informed decisions for fair and resilient water management
+
+Goal:
+To transform water scarcity from a critical tipping point into an opportunity for sustainable access, transparency, and climate resilience.
 
 ### Our question(s) 📣
 <!-- EDIT: Replace bullets with your own. Encourage divergent takes. -->
-- What are we trying to understand or change?
-- Why now? Why here?
-- Who benefits if we succeed?
+What are we trying to understand or change?
+
+How can communities and markets proactively manage scarce water resources to ensure fair access and long-term resilience?
+
+Why now? Why here?
+
+Water scarcity is reaching critical levels globally, with billions affected annually.
+
+Regions like the Western U.S. (Utah), North Africa (Morocco), and the Middle East (Saudi Arabia) are experiencing extreme stress, making it urgent to test and prototype solutions locally.
+
+Who benefits if we succeed?
+
+Local communities gain reliable and equitable access to water.
+
+Governments and utilities can manage resources more efficiently.
+
+Businesses, researchers, and policymakers can leverage data for sustainable planning and climate resilience.
 
 ### Hypotheses / intentions [Optional: probably not relevant if you are creating an educational tool]
 <!-- EDIT: Plain language, short and honest. -->
