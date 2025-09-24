@@ -1,4 +1,4 @@
-# HydroFutures / WaterTipPoint — Building Resilience for the Future
+# WaterTipPoint — Building Resilience for the Future
 
 
 <p style="text-align: right;"><a href="https://github.com/CU-ESIIL/wildcard-topic-innovation-summit-2025__19/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
